@@ -1,5 +1,16 @@
 # 💫 About Me:
-🚀 I'm currently looking for new opportunities to join a developer's team<br>🌱 I’m currently learning<br>
+
+
+# Hi, I'm Yasser (aka lmutsuha79)
+
+I'm a software engineer with a passion for building and improving software solutions. I have experience working on a variety of projects, ranging from web applications to mobile apps, and have a strong foundation in computer science principles.
+
+I am always looking to learn new technologies and approaches to problem-solving, and am excited to contribute to the open source community through my work on GitHub. In my spare time, I enjoy staying up-to-date with the latest industry trends and participating in hackathons and coding challenges.
+
+Thank you for visiting my GitHub profile. I hope you find my projects and contributions useful and interesting. If you have any questions or want to collaborate on a project, feel free to reach out to me. I am always open to new opportunities and connections in the tech industry.
+
+
+
 
 
 ## 🌐 Socials:
